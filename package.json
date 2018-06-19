@@ -1,0 +1,14 @@
+{
+  "name": "hyper-hide-scrollbar",
+  "version": "0.1.0",
+  "description": "Hides the scrollbar in Hyper(Term)",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "jest": "^23.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
