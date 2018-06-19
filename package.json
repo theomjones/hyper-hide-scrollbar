@@ -1,6 +1,6 @@
 {
   "name": "hyper-hide-scrollbar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hides the scrollbar in Hyper(Term)",
   "repository": {
     "url": "https://github.com/theomjones/hyper-hide-scrollbar"
