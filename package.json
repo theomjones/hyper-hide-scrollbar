@@ -10,6 +10,9 @@
     "url": "https://www.theomjones.com",
     "email": "theomjones@gmail.com"
   },
+  "keywords": [
+    "hyper"
+  ],
   "main": "index.js",
   "license": "MIT",
   "private": false,
