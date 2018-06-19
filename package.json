@@ -2,6 +2,14 @@
   "name": "hyper-hide-scrollbar",
   "version": "1.0.0",
   "description": "Hides the scrollbar in Hyper(Term)",
+  "repository": {
+    "url": "https://github.com/theomjones/hyper-hide-scrollbar"
+  },
+  "author": {
+    "name": "Theo Messenger-Jones",
+    "url": "https://www.theomjones.com",
+    "email": "theomjones@gmail.com"
+  },
   "main": "index.js",
   "license": "MIT",
   "private": false,
